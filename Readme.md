@@ -10,7 +10,7 @@ El objetivo fue aplicar y reforzar patrones de diseño web, manejo de layout com
 
 Puedes ver la versión desplegada del proyecto aquí:
 
-**[➡️ Ver Hamburguesería Rovers en Netlify](https://enlace-a-tu-netlify-aqui.netlify.app)**
+**[➡️ Ver Hamburguesería Rovers en Netlify](https://hamburgueseria-rovers-landing-page.netlify.app/)**
 _(¡No olvides reemplazar este enlace con el de tu demo en Netlify!)_
 
 ---
